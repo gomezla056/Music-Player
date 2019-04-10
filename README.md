@@ -38,4 +38,4 @@ The keypad is used as input. The outline of the keypad is shown as the following
 
 Only 1, 2, and 3 are used to play different melodies.
 
-## Parts Assembled (Coming soon)
+## Schematic (Coming soon)
